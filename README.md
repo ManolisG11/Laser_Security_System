@@ -36,6 +36,7 @@ The Compoments that we used for this project are:
 - Jumper Wires
 - Arduino Nano/Uno
 - Bluetooth Module [COMING SOON!]
+- 220Ω and 10ΚΩ resistors
 ## FAQ
 
 #### Can I make it with an other Arduino model?
