@@ -18,6 +18,10 @@ A security system sample with a laser and a photoresistor made for Arduino Nano/
 
 ![Demo](https://i.ibb.co/HHnHZwG/0-02-05-2269799632003a5c1f056fa2a6dc0aba3a7c14a81297c6742156b106aac0474e-91e8b313c3b74db1.jpg)
 
+## Circuit
+
+![Circuit](https://i.ibb.co/yRCnP6H/Surprising-Stantia.png)
+
 
 ## Features
 
