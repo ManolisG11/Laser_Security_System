@@ -1,5 +1,5 @@
 
-![Logo](https://i.ibb.co/wcfCcR8/Black-And-White-Minimalist-Rocket-Logo.png)
+![Logo](https://i.ibb.co/3cWhyFm/Black-And-White-Minimalist-Rocket-Logo-1.png)
 
 
 # Laser Security System
